@@ -3,5 +3,21 @@
     list-style: none;
 }
 
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
 
+.review {
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px -8px 1px #a18ff3;
+}
 
+ul li {
+    text-align: center;
+}
+
+.fas {
+    font-size: 2rem;
+}
